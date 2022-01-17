@@ -7,6 +7,7 @@ public class CeilingOfTheNumber {
         System.out.println(x);
     }
 
+
     static int binarySearch(int[] bs, int target) {
         int start = 0;
         int end = bs.length-1;
